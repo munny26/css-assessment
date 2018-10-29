@@ -1,0 +1,41 @@
+.header{
+    background-color: purple;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.box{
+    width: 1225px;
+}
+.left{
+    width: 183px;
+    height: 470px;
+    background-color: mediumorchid;
+    float: left;
+    margin-right: 5px;
+}
+.right{
+    width: 1145px;
+    float: left;
+}
+.article{
+    width: 1145px;
+    height: 307px;
+    background-color: saddlebrown;
+    float: left;
+    margin-bottom: 5px;
+}
+.ads{
+    width: 1145px;
+    height: 161px;
+    background-color: mediumpurple;
+    float: left;
+}
+.clear {
+    clear:both;
+}
+.footer{
+    width: 100%;
+    background-color: springgreen;
+    height: 50px;
+}

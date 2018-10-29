@@ -1,0 +1,47 @@
+.header{
+    width: 89%;
+    background-color: sandybrown;
+    height: 40px;
+    margin-bottom: 5px;
+}
+.container{
+    width: 1200px;
+}
+.left{
+    width: 290px;
+    height: 570px;
+    background-color: rosybrown;
+    margin-right: 5px;
+    float: left;
+}
+.right{
+    width: 900px;
+    float: left;
+}
+.top{
+    width: 900px;
+}
+.col1{
+    width: 445px;
+    background-color: brown;
+    height: 520px;
+    float: left;
+    margin-right: 5px;
+}
+.col2{
+    width: 450px;
+    background-color: lightcoral;
+    height: 520px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    width: 896px;
+    background-color: saddlebrown;
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+    text-align: center;
+}

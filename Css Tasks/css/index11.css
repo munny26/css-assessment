@@ -1,0 +1,47 @@
+.col1{
+    width: 275px;
+}
+.nav{
+    width: 275px;
+    background-color: skyblue;
+    height: 557px;
+    float: left;
+    margin-right: 5px;
+}
+.col2{
+    width: 1045px;
+    float: left;
+}
+.header{
+    width: 1045px;
+    background-color: royalblue;
+    height: 50px;
+    float: left;
+    margin-bottom: 5px;
+}
+.box{
+    width: 1045px;
+}
+.left{
+    background-color: green;
+    height: 450px;
+    width: 840px;
+    float: left;
+    margin-right: 5px;
+}
+.right{
+    background-color: goldenrod;
+    width: 200px;
+    height: 450px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    background-color: greenyellow;
+    width: 1045px;
+    height: 48px;
+    float: right;
+    margin-top: 5px;
+}

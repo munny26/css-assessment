@@ -1,0 +1,46 @@
+.container{
+    width: 99.5%;
+}
+.header{
+    background-color: purple;
+    width: 85%;
+    height: 50px;
+    float: left;
+    text-align: left;
+    
+}
+.right{
+    background-color: purple;
+    height: 50px;
+    width: 14%;
+    float: right;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    margin-top: 5px;
+}
+.row1{
+    background-color: purple;
+    width: 24%;
+    height: 400px;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+}
+.row2{
+    background-color: purple;
+    height: 350px;
+    width: 75%;
+    float: left;
+    text-align: center;
+    margin: 5px;
+}
+.footer{
+    width: 75%;
+    background-color: purple;
+    height: 47px;
+    float: left;
+    margin-left: 5px;
+    text-align: center;
+}

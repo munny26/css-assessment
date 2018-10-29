@@ -1,0 +1,41 @@
+.header{
+    width: 100%;
+    background-color: violet;
+    color: white;
+    height: 50px;
+    padding: 4px;
+    
+}
+.container{
+    width: 100%;
+    margin: 7px;
+}
+.cols1{
+    display: inline-block;
+    width: 20%;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+.cols2{
+    display: inline-block;
+    width: 60%;
+    height: 200px;
+    background-color: cornflowerblue;
+    margin-left: 5px;
+}
+.cols3{
+    display: inline-block;
+    width: 18.5%;
+    height: 200px;
+    background-color: cornflowerblue;
+    float: right;
+    margin-left: 3px;
+}
+.footer{
+    width: 100%;
+    background-color: violet;
+    color: white;
+    height: 40px;
+    padding: 4px;
+    
+}

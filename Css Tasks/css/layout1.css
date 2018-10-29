@@ -1,0 +1,36 @@
+.header{
+    background-color: darkslategrey;
+    color: white;
+    width: 99%;
+    height: 100px;
+    text-align: center;
+    padding: 6px;
+}
+.box{
+    width: 100%;
+    
+}
+.left{
+    background-color: lightgrey;
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+.left a{
+    display: block;
+}
+.right{
+    background-color: darkgrey;
+    height: 200px;
+    width: 80%;
+    float: right;
+}
+ #footer{
+                 
+                 width: 100%;
+                 height: 100px;
+                 float: left;
+                 background-color: darkslategrey;
+                color: white;
+                text-align: center;
+             }
